@@ -51,7 +51,7 @@ Here’s a detailed case study on "Monolith vs. Serverless" :
   *Comparison*
 
  | Aspect              | Monolithic Architecture                 | Serverless Architecture              |
- |                     |                                         |                                      |
+                                                                                                       
  |  Development        | Easier to start, but complex over time  | Requires more planning and design    |
  |  Scalability        | Hard to scale parts independently       | Easy to scale individual functions   |
  |  Cost               | Higher due to always-on infrastructure  | Lower as you pay for actual usage    |
